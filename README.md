@@ -7,9 +7,9 @@
   </p>
 
   <p>
-    <strong>Note:</strong> I started learning HTML, CSS, and JavaScript in 2023. <br />
-    During that time, I focused on learning and didn't upload my projects to GitHub. <br />
-    I am now working on React.js and Next.js projects.
+    <strong>Note:</strong> I started building HTML, CSS, and JavaScript projects in 2022. <br />
+    At that time, I focused on learning first and began uploading to GitHub recently. <br />
+    Now I'm working with React.js and Next.js, and seeking opportunities as a frontend or web developer.
   </p>
 </div>
 
@@ -70,5 +70,5 @@ If you find this project useful, please consider starring it on GitHub ⭐ to sh
     <a href="https://nawazdevx.github.io/barber-shop/" target="_blank"><strong>Live Demo</strong></a>
   </p>
 
-  <img src="./assets/images/readme-image.png" alt="Desktop Demo" />
+  <img src="./assets/images/readme-image.jpg" alt="Desktop Demo" />
 </div>
